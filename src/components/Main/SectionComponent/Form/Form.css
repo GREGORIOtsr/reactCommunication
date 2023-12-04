@@ -1,0 +1,27 @@
+#login {
+    margin-top: 20px;
+    width: fit-content;
+    min-width: 50vw;
+    display: flex;
+    flex-flow: column wrap;
+    align-content: center;
+}
+
+#login label {
+    font-size: 30px;
+    margin: 15px 0;
+    text-align: left;
+}
+
+#login input {
+    font-size: 25px;
+    min-width: 320px;
+    padding: 10px;
+}
+
+#login button {
+    font-size: 20px;
+    margin-top: 50px;
+    width: fit-content;
+    align-self: center;
+}
